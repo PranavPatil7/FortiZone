@@ -1,4 +1,4 @@
-# terraform-google-bootstrap
+# FortiZone – Secure GCP Landing Zone with IAM Governance                                                  
 
 The purpose of this module is to help bootstrap a GCP organization, creating all the required GCP resources & permissions to start using the Cloud Foundation Toolkit (CFT). For users who want to use Cloud Build & Cloud Source Repos for foundations code, there is also a submodule to help bootstrap all the required resources to do this.
 
@@ -119,7 +119,3 @@ resources of this module:
 
 This API can be enabled in the default project created during establishing an organization.
 
-## Contributing
-
-Refer to the [contribution guidelines](./CONTRIBUTING.md) for
-information on contributing to this module.
